@@ -3,7 +3,7 @@ def greet(name: str) -> str:
     Returns a friendly greeting message.
     
     Args:
-        name (str): The name of the person to greet 
+        name (str): The name of the person to greet .)
 
     Returns:
         str: Greeting message.
